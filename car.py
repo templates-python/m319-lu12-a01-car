@@ -1,5 +1,15 @@
+from dataclasses import dataclass
+
+
+@dataclass
 class Car:
     """
-    TODO short description
+    a car
     """
+    brand: str
+    model: str
+    construction: int
+
+
+if __name__ == '__main__':
     pass
