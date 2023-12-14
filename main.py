@@ -8,7 +8,7 @@ def main():
         if brand != '':
             model = input('Modell > ')
             construction = input('Baujahr > ')
-            car = Car(brand=brand, model=model, construction=construction)
+            car = Car(brand, model, construction)
             car_list.append(car)
         else:
             break
