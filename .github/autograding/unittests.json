@@ -1,19 +1,19 @@
 [
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_class",
+    "function": "test_class",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_one_car",
+    "function": "test_one_car",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_multiple_cars",
+    "function": "test_multiple_cars",
     "timeout": 10,
     "points": 1
   }
